@@ -1,9 +1,16 @@
-# E-learning-platform
-This is a website for online learning, designed with both front-end and back-end features to manage courses, student enrollment, and study materials.
+<h2>Project Description</h2>
+<p>
+  This is a website creation project. The project is still under development, 
+  and it is being built using <b>HTML</b>, <b>CSS</b>, and <b>JavaScript</b>.
+</p>
 
-<p><b>State:</b> creating</p>
+<h3>✅ Current Progress</h3>
+<ul>
+  <li><span style="color:green;">Hero page created</span></li>
+</ul>
 
-<details>
-  <summary>What is this platform?</summary>
-  <p>This is an E-learning platform with courses, enrollment, and materials management.</p>
-</details>
+<h3>🛠️ Next Steps</h3>
+<ul>
+  <li>Login page</li>
+  <li>Sign up page</li>
+</ul>
