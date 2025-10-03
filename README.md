@@ -7,10 +7,13 @@
 <h3>✅ Current Progress</h3>
 <ul>
   <li><span style="color:green;">Hero page created</span></li>
+  <li><span style="color:green;">Login page created</span></li>
 </ul>
 
 <h3>🛠️ Next Steps</h3>
 <ul>
-  <li>Login page</li>
-  <li>Sign up page</li>
+  <li>connect database</li>
+  <li>create home page</li>
+  <li>create dashboard</li>
+  <li>course Enroll pages</li>
 </ul>
